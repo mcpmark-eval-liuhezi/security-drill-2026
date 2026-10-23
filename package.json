@@ -1,0 +1,9 @@
+{
+  "name": "security-drill-2026",
+  "version": "1.0.0",
+  "description": "Quarterly dependency-security drill for CVE-2021-23337",
+  "private": true,
+  "dependencies": {
+    "lodash": "4.17.21"
+  }
+}
